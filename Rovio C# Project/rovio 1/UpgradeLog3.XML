@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="rovio 1">
+</Property><Property Name="Solution File" Value="C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\rovio 1.sln">
+</Property><Property Name="User Options File" Value="C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\rovio 1.suo">
+</Property><Property Name="Date" Value="23 July 2011">
+</Property><Property Name="Time" Value="13:37">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="rovio 1.sln" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\rovio 1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="rovio 1.suo" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\rovio 1.suo">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="Project file successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\rovio 1.csproj">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj.user" Description="Project user file successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\rovio 1.csproj.user">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Program.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_calib3d220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_calib3d220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_contrib220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_contrib220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_core220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_core220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_features2d220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_features2d220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_ffmpeg220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_ffmpeg220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_flann220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_flann220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_gpu220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_gpu220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_highgui220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_highgui220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_imgproc220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_imgproc220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_legacy220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_legacy220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_ml220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_ml220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_objdetect220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_objdetect220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="opencv_video220.dll" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\opencv_video220.dll">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.resx" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="rovio 1" Source="rovio 1.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="1" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="Project file successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\RovioLib\RovioLib.csproj">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj.user" Description="Project user file successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\RovioLib\RovioLib.csproj.user">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\RovioLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\RovioController.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\rovio 1\Backup1\RovioLib\RovioController.cs">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="rovio 1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="rovio 1.sln" Description="Converted">
+</Event></UpgradeLog>

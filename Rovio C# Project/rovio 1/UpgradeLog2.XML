@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="rovio 1">
+</Property><Property Name="Solution File" Value="C:\Users\CeX\Desktop\Rovio C# Project\Rovio C# Project\Rovio C# Project\rovio 1\rovio 1.sln">
+</Property><Property Name="Date" Value="16 July 2011">
+</Property><Property Name="Time" Value="12:58">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="rovio 1" Source="rovio 1.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="RovioLib" Source="..\roviolib-51005\RovioLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="rovio 1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="rovio 1.sln" Description="Converted">
+</Event></UpgradeLog>

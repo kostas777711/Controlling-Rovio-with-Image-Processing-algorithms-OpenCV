@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="rovio 1">
+</Property><Property Name="Solution File" Value="C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\rovio 1.sln">
+</Property><Property Name="User Options File" Value="C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\rovio 1.suo">
+</Property><Property Name="Date" Value="20 May 2011">
+</Property><Property Name="Time" Value="18:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="rovio 1.sln" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\rovio 1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="rovio 1.suo" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\rovio 1.suo">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="Project file successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\rovio 1.csproj">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Program.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Form1.resx" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="rovio 1" Source="rovio 1.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioLib.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioLib.csproj" Description="Project file successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\RovioLib\RovioLib.csproj">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\..\..\roviolib-51005\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\RovioLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioController.cs" Description="File successfully backed up as C:\Users\CeX\Desktop\Rovio Software Projects\My Projects\Pr 1\rovio 1\Backup\RovioLib\RovioController.cs">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="rovio 1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="rovio 1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="rovio 1" Source="rovio 1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RovioLib" Source="..\..\..\roviolib-51005\RovioLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
